@@ -1,7 +1,7 @@
 # Line Azimuth script
 
 A free open-source Python script for estimating the azimuth of a line considering the
-side towards wich the line is leaning using the coordinates of the edge points
+side towards which the line is leaning using the coordinates of the edge points
 and their heights.
 
 The script requires Python 2.7.x/3.4.x or higher installed in the system
